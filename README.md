@@ -414,6 +414,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Torch7: Deep learning library in Lua, used by Facebook and Google Deepmind [[Web](http://torch.ch/)]
   * Torch-based deep learning libraries: [[torchnet](https://github.com/torchnet/torchnet)],
 * Caffe: Deep learning framework by the BVLC [[Web](http://caffe.berkeleyvision.org/)]
+* Caffe2: Deep learning framework from facebook fork of Caffe [[Web](https://caffe2.ai/)]
 * Theano: Mathematical library in Python, maintained by LISA lab [[Web](http://deeplearning.net/software/theano/)]
   * Theano-based deep learning libraries: [[Pylearn2](http://deeplearning.net/software/pylearn2/)], [[Blocks](https://github.com/mila-udem/blocks)], [[Keras](http://keras.io/)], [[Lasagne](https://github.com/Lasagne/Lasagne)]
 * MatConvNet: CNNs for MATLAB [[Web](http://www.vlfeat.org/matconvnet/)]
